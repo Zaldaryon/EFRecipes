@@ -1,6 +1,6 @@
 ﻿[
     {
-        "file": "survival:recipes/cooking/soup.json",
+        "file": "game:recipes/cooking/soup.json",
         "op": "addeach",
         "path": "/ingredients/4/validStacks/-",
         "value": [
@@ -103,7 +103,7 @@
             ]
         }
     ],
-    "file": "survival:recipes/cooking/soup.json",
+    "file": "game:recipes/cooking/soup.json",
     "side": "server",
     "dependsOn": [ { "modid": "primitivesurvival" } ]
   }

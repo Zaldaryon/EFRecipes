@@ -10,6 +10,6 @@
       }
     },
     "side": "server",
-    "file": "survival:blocktypes/plant/flower.json"
+    "file": "game:blocktypes/plant/flower.json"
   }
 ]

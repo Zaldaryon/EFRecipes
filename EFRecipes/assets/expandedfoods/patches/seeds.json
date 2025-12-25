@@ -10,6 +10,6 @@
 		}
     },
     "side": "server",
-    "file": "survival:itemtypes/resource/seeds.json"
+    "file": "game:itemtypes/resource/seeds.json"
   }
 ]

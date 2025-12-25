@@ -4,6 +4,6 @@
     "path": "/attributes/handbook",
     "value": { "groupBy": ["legume-*"] },
     "side": "server",
-    "file": "survival:itemtypes/food/legume.json"
+    "file": "game:itemtypes/food/legume.json"
   }
 ]

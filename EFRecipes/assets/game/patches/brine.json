@@ -11,6 +11,6 @@
       "requiresContainer": true
     },
     "side": "server",
-    "file": "survival:itemtypes/liquid/brineportion.json"
+    "file": "game:itemtypes/liquid/brineportion.json"
   }
 ]
